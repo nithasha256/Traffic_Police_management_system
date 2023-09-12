@@ -1,2 +1,2 @@
 # Traffic_Police_management_system
-This project deals with the generation of challan. This software will help police to login and manage the various types of records pertaining to his/her violator.
+This project deals with the generation of challan. This software will help police to login and manage the various types of records pertaining to his/her violator. This project will help the police to work in a highly effective and efficient environment. By using this system we can also fin the police who are in means of corruption. This is a web based software and information is stored in database.
